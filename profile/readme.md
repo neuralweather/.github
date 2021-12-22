@@ -6,6 +6,6 @@ Currently, there is no actual AI nor anything related to blockchains, but it sur
 
 ### Repositories
 
--   [backend](https://github.com/neuralweather/backend) from @lennardwalter
--   [app](https://github.com/neuralweather/app) from @TimonGaertner
--   [esp](https://github.com/neuralweather/esp) from @blacklyger (Simon)
+-   [backend](https://github.com/neuralweather/backend) by @lennardwalter
+-   [app](https://github.com/neuralweather/app) by @TimonGaertner
+-   [esp](https://github.com/neuralweather/esp) by @blacklyger (Simon)
